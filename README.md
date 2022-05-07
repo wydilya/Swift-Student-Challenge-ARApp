@@ -7,4 +7,3 @@ Swift Student Challenge 2022 Submission. It's AR App. To write this application 
 - RealityKit
 - PlaygroundSupport
 - iPad Air 4
-- 
